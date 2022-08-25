@@ -1,0 +1,36 @@
+PODS:
+  - DropDown (2.3.13)
+  - iOSDropDown (0.4.0)
+  - RAMAnimatedTabBarController (5.2.0)
+  - Segmentio (4.1)
+  - SideMenu (6.5.0)
+  - SSCustomTabbar (2.0.6)
+
+DEPENDENCIES:
+  - DropDown
+  - iOSDropDown
+  - RAMAnimatedTabBarController
+  - Segmentio
+  - SideMenu
+  - SSCustomTabbar
+
+SPEC REPOS:
+  trunk:
+    - DropDown
+    - iOSDropDown
+    - RAMAnimatedTabBarController
+    - Segmentio
+    - SideMenu
+    - SSCustomTabbar
+
+SPEC CHECKSUMS:
+  DropDown: 8a2116376c1981888557f72ec2ffc9a5e0e456ec
+  iOSDropDown: ce9daa584eaa5567cafc1b633e3cc7eb6d9cea42
+  RAMAnimatedTabBarController: 6863a386e7ae2ab227cd60aa73ab8ff56cdacfdd
+  Segmentio: ab29def64e1bff6e6e9b97671788a99bed3f1d9f
+  SideMenu: f583187d21c5b1dd04c72002be544b555a2627a2
+  SSCustomTabbar: a52533e429bd40f52ce8d7ecb801f3521fbd56a0
+
+PODFILE CHECKSUM: d62c8032c8d0e2682782130d5c243f977a9c3f10
+
+COCOAPODS: 1.11.3
